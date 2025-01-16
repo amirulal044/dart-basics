@@ -1,4 +1,6 @@
 
+import 'dart:io';
+
 void main() {
   print("Masukkan nilai pokok (P): ");
   double p = double.parse(stdin.readLineSync()!);

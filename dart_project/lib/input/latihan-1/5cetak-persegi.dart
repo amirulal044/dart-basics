@@ -1,4 +1,6 @@
 
+import 'dart:io';
+
 void main() {
   print("Masukkan angka untuk menghitung persegi: ");
   int angka = int.parse(stdin.readLineSync()!);

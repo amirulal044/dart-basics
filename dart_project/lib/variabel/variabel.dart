@@ -1,7 +1,7 @@
 void main() {
 
 
-var umur = ' 18'
+var umur = ' 8';
 dynamic nama = 'amirul';
 String kota = 'Jepara';
 

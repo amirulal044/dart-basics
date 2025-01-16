@@ -13,7 +13,7 @@ void main() {
       break;
     case 4 :
     print("Tempe");
-      break:
+      break;
     default :
     print("Pos yang anda masukan tidak terdaftar");
   }
